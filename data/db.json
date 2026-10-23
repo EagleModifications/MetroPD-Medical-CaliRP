@@ -1,0 +1,22 @@
+{
+  "users": [],
+  "patients": [
+    {
+      "first_name": "Kieran",
+      "last_name": "Street",
+      "ssn": "123-45-6789",
+      "gender": "Male",
+      "blood_type": "A+",
+      "phone": "3104547729",
+      "status": "Active",
+      "id": "91252d30-862c-4c4e-94b8-0c28329ea724",
+      "created_date": "2026-10-23T04:43:03.473Z",
+      "updated_date": "2026-10-23T04:45:48.261Z",
+      "entity": "Patient",
+      "date_of_birth": "2000-04-17"
+    }
+  ],
+  "medicalRecords": [],
+  "sessions": {},
+  "pendingOtps": {}
+}

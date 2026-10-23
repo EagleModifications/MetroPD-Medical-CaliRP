@@ -1,0 +1,9 @@
+{
+  "name": "medcad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted MedCAD medical records application",
+  "main": "server/index.js",
+  "scripts": {"start":"node server/index.js"},
+  "engines": {"node": ">=18"}
+}
